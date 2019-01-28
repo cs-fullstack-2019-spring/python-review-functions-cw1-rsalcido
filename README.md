@@ -1,3 +1,6 @@
+### 0 POINTS
+### KEY: No solutions submitted to GitHub
+
 # Python Review: Functions Classwork
 
 ### Problem 1:
